@@ -10,7 +10,7 @@ Optimized for PojavLauncher.
 
 ClickGUI activated with the "P" key.
 
-@ prefix.
+ prefix "@".
 
 Compatible with Fabric 1.21/1.21.1.
 
