@@ -10,3 +10,5 @@ Optimized for PojavLauncher.
 
 
 🖥️ Enjoy, pojavUser. Here are the leaks with and without shaders:
+
+![ThunderHack Screenshot](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_230608.jpg)
