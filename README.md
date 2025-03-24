@@ -21,9 +21,9 @@ Honestly, making this compatible with PojavLauncher is much harder. PojavLaunche
 
 If you want to use ThunderHack 1.7, you must install one of these:
 
-🔹 Zalith Launcher Best
+🔹 [Zalith Launcher Best](https://github.com/ZalithLauncher/ZalithLauncher)  
 
-🔹 Pojav Glow
+🔹 [Pojav Glow](https://github.com/Vera-Firefly/Pojav-Glow-Worm)
 
 🖥️ Enjoy, zalithUser/pojavGlowUser. Here are the leaks with and without shaders:
 
