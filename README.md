@@ -31,7 +31,7 @@ With shaders in the menu
 ![ThunderHack Screenshot](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_230608.jpg)
 
 FixLog
-![ThunderHack Screenshot 4](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250410_070504.jpg)
+![ThunderHack Screenshot 4](https://github.com/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/raw/ThunderGod/Screenshot_20250410_070504.jpg)
 
 GUI
 ![ThunderHack Screenshot 2](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_230707.jpg)
