@@ -30,6 +30,9 @@ If you want to use ThunderHack 1.7, you must install one of these:
 With shaders in the menu
 ![ThunderHack Screenshot](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_230608.jpg)
 
+FixLog
+![ThunderHack Screenshot](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250410_070504.jpg)
+
 GUI
 ![ThunderHack Screenshot 2](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_230707.jpg)
 
