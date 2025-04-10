@@ -39,4 +39,7 @@ GUI
 Without shaders in the menu
 ![ThunderHack Screenshot 3](https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_235107.jpg)
 
+Fixlog
+![ThunderHack Screenshot 4](https://github.com/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/raw/main/Screenshot_20250410_070504.jpg)
+
 Fix By zAlex Ez
