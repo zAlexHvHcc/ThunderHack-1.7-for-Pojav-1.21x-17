@@ -18,7 +18,7 @@
 ## 🚀 About This Release
 
 This isn’t just another update—this is a full-on **bed-coded** experience.  
-I made ThunderHack 1.7 compatible with **Zalith Launcher** and **Pojav Glow**, something nobody else ha logrado (ni con hacks, literalmente).
+I made ThunderHack 1.7 compatible with **Zalith Launcher** and **Pojav Glow**, something nobody.
 
 ---
 
@@ -28,7 +28,7 @@ I made ThunderHack 1.7 compatible with **Zalith Launcher** and **Pojav Glow**, s
 - Discord RPC removed (mobile friendly).
 - Optimized for **Zalith Launcher** and **Pojav Glow**.
 - ClickGUI opens with **"P"** key.
-- Prefix set to **"."**.
+- Prefix set to **"@"**.
 - Runs on **Fabric 1.21 / 1.21.1**.
 
 ---
