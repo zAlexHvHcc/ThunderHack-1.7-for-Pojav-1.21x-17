@@ -9,12 +9,16 @@
   <b>By zAlex Ez — First ever working ThunderHack 1.7 on Mobile</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/total?color=blue&style=for-the-badge&label=TOTAL DOWNLOADS"/>
+</p>
+
 ---
 
 ## 🚀 About This Release
 
 This isn’t just another update—this is a full-on **bed-coded** experience.  
-I made ThunderHack 1.7 compatible with **Zalith Launcher** and **Pojav Glow**, something nobody else has done (literally).
+I made ThunderHack 1.7 compatible with **Zalith Launcher** and **Pojav Glow**, something nobody else ha logrado (ni con hacks, literalmente).
 
 ---
 
@@ -43,6 +47,18 @@ You need one of these to run ThunderHack 1.7 properly:
 
 - 🔗 [Zalith Launcher (Recommended)](https://github.com/ZalithLauncher/ZalithLauncher)
 - 🔗 [Pojav Glow (Alternative)](https://github.com/Vera-Firefly/Pojav-Glow-Worm)
+
+---
+
+## 📥 Download ThunderHack
+
+### With Shaders (1.7)
+- [Download thunderhack-1.7.jar (With Shaders)](https://github.com/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/releases/download/ThunderHack/thunderhack-1.7.jar)
+- ![Downloads](https://img.shields.io/github/downloads/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/ThunderHack/total?style=flat-square)
+
+### Without Shaders (1.7)
+- [Download thunderhack-1.7.jar (No Shaders)](https://github.com/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/releases/download/ThunderGod/thunderhack-1.7.jar)
+- ![Downloads](https://img.shields.io/github/downloads/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/ThunderGod/total?style=flat-square)
 
 ---
 
@@ -78,12 +94,17 @@ You need one of these to run ThunderHack 1.7 properly:
 
 ---
 
-## 📈 Downloads & Stats
+## ⭐ Stay Connected
 
-**ThunderHack 1.7 has been downloaded [Insert download count] times!**  
-Feel free to **Star** this repo and **Join the Discord** for support, updates & memes.
+- **Star the Repo** to support this project.
+- **Share the link** to help the mobile hacking community.
+- **Join Discord** for updates & support:
 
-[![Discord](https://img.shields.io/discord/123456789?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/YOUR_INVITE_LINK)
+<p align="center">
+  <a href="https://discord.gg/YOUR_INVITE_LINK">
+    <img src="https://img.shields.io/discord/123456789?color=7289DA&label=Join+Discord&logo=discord&style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
