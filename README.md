@@ -82,7 +82,7 @@ You need one of these to run ThunderHack 1.7 properly:
   <img src="https://github.com/zAlexHvHcc/ThunderHack-17-for-Pojav-1.21x-17/raw/main/Screenshot_20250322_235107.jpg" width="600"/>
 </p>
 
-### FixLog — Gameplay Evidence
+### FixLog 
 
 <p align="center">
   <img src="https://github.com/zAlexHvHcc/ThunderHack-1.7-for-Zalith-Glow-1.21x/raw/main/Screenshot_20250410_072155.jpg" width="600"/>
