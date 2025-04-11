@@ -97,7 +97,7 @@ You need one of these to run ThunderHack 1.7 properly:
 ## ⭐ Stay Connected
 
 - **Star the Repo** to support this project.
-- **Share the link** to help the mobile hacking community.
+- **Share the link** to help the mobile HvH community.
 - **Join Discord** for updates & support:
 
 <p align="center">
