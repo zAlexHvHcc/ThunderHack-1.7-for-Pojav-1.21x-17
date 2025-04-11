@@ -28,7 +28,7 @@ I made ThunderHack 1.7 compatible with **Zalith Launcher** and **Pojav Glow**, s
 - Discord RPC removed (mobile friendly).
 - Optimized for **Zalith Launcher** and **Pojav Glow**.
 - ClickGUI opens with **"P"** key.
-- Prefix removed for simplicity.
+- Prefix set to **"."**.
 - Runs on **Fabric 1.21 / 1.21.1**.
 
 ---
@@ -101,8 +101,8 @@ You need one of these to run ThunderHack 1.7 properly:
 - **Join Discord** for updates & support:
 
 <p align="center">
-  <a href="https://discord.gg/EcCNrXnu">
-    <img src="https://img.shields.io/discord/1226830911307710504?color=7289DA&label=Join+Discord&logo=discord&style=for-the-badge"/>
+  <a href="https://discord.gg/zalexhvhcc">
+    <img src="https://img.shields.io/badge/Join%20Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
